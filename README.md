@@ -215,6 +215,10 @@ with open(file_to_save, "w") as txt_file:
 
 
 ```
+The output of this code when ran in the terminal is shown in the image below:
+
+![results_in_terminal](https://user-images.githubusercontent.com/112278208/192613197-f3d98f69-b082-4276-90ca-8b3940cf23b2.png)
+
 
 
 This code could easily be modified to  audit other congressional districts, senatorial districts, and other local elections. It can be used on any data file regardless of the size so long as the dataset has a similar structure.
