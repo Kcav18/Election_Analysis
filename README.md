@@ -39,7 +39,7 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who receieved 73.8% of the vote and 272,892 number of votes.
 
-The raw data to the election results can be found here: [Election Results] (https://github.com/Kcav18/Election_Analysis/blob/main/Resources/election_results.csv)
+The raw data to the election results can be found here: [Election Results](https://github.com/Kcav18/Election_Analysis/blob/main/Resources/election_results.csv)
 
 The text file summary of the election results can be found here: [Election Analysis](https://github.com/Kcav18/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
